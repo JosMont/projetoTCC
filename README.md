@@ -9,4 +9,4 @@ As pastas OR007, OR014, OR021 contém arquivos com os dados para o anel externo,
 
 A pasta normal contém arquivos com os dados para rolamentos sem defeito.
 
-O diretório Data_Frames contém o script CriaDataFrame.R que lê um cojunto de dados, cria um dataframe e salva um arquivo .csv.
+O diretório Data_Frames contém o script CriaDataFrame.R que lê um conjunto de dados, cria um dataframe e salva um arquivo .csv.
