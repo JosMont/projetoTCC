@@ -20,3 +20,5 @@ SCRIPT Escalograma.py: lê um dos arquivos .csv gerado no RStudio, converte em u
 SCRIPT ResizeImage.py: Converte a imagem RGBA para RGB no formato (224 X 224 X 3).
 
 SCRIPT EscalaParaFrequencia.py: script auxiliar para descobrir qual intervalo de frequências os valores de escala que estou usando cobrem.
+
+Imagem_B014 - diretório com 76 imagens de Escalograma gerados a partir dos dados de elementos rolantes com falha de diâmetro 0,014 pol.
